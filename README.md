@@ -2,13 +2,14 @@
 I'm a Software Development Engineering student!
 I love building data structures, working with databases, software architecture, UI/UX, and I'm always learning new tools.
 
+<!--
 ---
 
 <h3 align="center"> 
 ✦•┈๑⋅⋯ Sᴏᴍᴇ ᴏғ ᴍʏ Pʀᴏᴊᴇᴄᴛs ⋯⋅๑┈·✦
   </h3>
     
-
+-->
 ---
 <h3 align="center"> 
 ✦•┈๑⋅⋯ A ʟɪᴛᴛʟᴇ ʙɪᴛ ᴀʙᴏᴜᴛ ᴍᴇ ⋯⋅๑┈·✦
