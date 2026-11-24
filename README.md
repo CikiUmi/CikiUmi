@@ -72,3 +72,5 @@ I'm also part of <a href="https://github.com/detached-brains">饾攪饾敘饾敱饾敒饾
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-EC2_路_S3_路_DynamoDB_路_VPC_路_IAM_路_CodeCommit-232f32?style=flat&labelColor=FF9900)
+
+icons/aws.svg
