@@ -18,7 +18,7 @@ Outside of code, I love drawing, reading, and I'm learning Japanese on my own. L
 
 <br>
 <p align="center"> 
- I'm also part of 𝔇𝔢𝔱𝔞𝔠𝔥𝔢𝔡 𝔅𝔯𝔞𝔦𝔫𝔰! 🧠 Play our new game's prototype, Fortuna Favors, on Itch.io!
+I'm also part of <a href="https://github.com/detached-brains">𝔇𝔢𝔱𝔞𝔠𝔥𝔢𝔡 𝔅𝔯𝔞𝔦𝔫𝔰</a>! 🧠 Play our new game's prototype, Fortuna Favors, on Itch.io!
 </p>
 
 <p align="center"> 
@@ -35,51 +35,53 @@ Outside of code, I love drawing, reading, and I'm learning Japanese on my own. L
 
 ---
 
-<h3 align="center"> 
-✦•┈๑⋅⋯ Oᴛʜᴇʀ ᴛʜɪɴɢs I ᴡᴏʀᴋ ᴡɪᴛʜ ⋯⋅๑┈·✦
-  </h3>
+<h3 align="center"> ✦•┈๑⋅⋯ Oᴛʜᴇʀ ᴛʜɪɴɢs I ᴡᴏʀᴋ ᴡɪᴛʜ ⋯⋅๑┈·✦ </h3>
 
-<p>
-• 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀<br>
-Python, Java, JavaScript, SQL, HTML, CSS, Kotlin
-</p>
+#### 〢ᯓ Languages
 
-<p>
-• 𝗪𝗲𝗯<br>
-MongoDB (my beloved <3), Express, React and Node.js
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
-<p>
-• 𝗗𝗲𝘀𝗶𝗴𝗻<br>
-Figma, WCAG (wireframes and prototyping); Photoshop & GIMP (<33) for illustration
-</p>
+#### 〢ᯓ Web, Apps n' Games 
 
-<p>
-• 𝗗𝗮𝘁𝗮<br>
-pandas, matplotlib, seaborn, scikit-learn
-</p>
+![MongoDB](https://img.shields.io/badge/MongoDB_❤︎-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=white)
+![Mendix](https://img.shields.io/badge/Mendix-0CABF9?style=flat)
+![Android](https://img.shields.io/badge/Android-32DE84?style=flat&logo=android&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 
-<p>
-• 𝗖𝗹𝗼𝘂𝗱<br>
-AWS (EC2, S3, DynamoDB, VPC, IAM, CodeCommit)
-</p>
 
-<p>
-• 𝗟𝗼𝘄-𝗖𝗼𝗱𝗲<br>
-Mendix
-</p>
+#### 〢ᯓ Design
 
-<p>
-• 𝗢𝗳𝗳𝗶𝗰𝗲<br>
-Excel (advanced formulas, pivot tables), Word, PowerPoint, Publisher (<3)
-</p>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![WCAG](https://img.shields.io/badge/WCAG-005A9C?style=flat)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat)
+![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat&logo=gimp&logoColor=white)
 
-<p>
-• 𝗖𝗼𝗱𝗶𝗻𝗴 𝗧𝗼𝗼𝗹𝘀<br>
-Git, GitHub, VS Code, NetBeans, Android Studio
-</p>
+#### 〢ᯓ Data
 
-<p>
-• 𝗠𝗲𝘁𝗵𝗼𝗱𝘀<br>
-Agile (Scrum), Kanban, Waterfall
-</p>
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![seaborn](https://img.shields.io/badge/seaborn-4C72B0?style=flat)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+
+#### 〢ᯓ DevOps & Cloud
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-EC2_·_S3_·_DynamoDB_·_VPC_·_IAM_·_CodeCommit-232f32?style=flat&labelColor=FF9900)
+
+#### 〢ᯓ Coding Tools
+
+![Git](https://img.shields.io/badge/Git-F03C2E?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat)
+![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=flat&logo=apachenetbeanside&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)
