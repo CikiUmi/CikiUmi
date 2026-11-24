@@ -14,8 +14,10 @@ I love building data structures, working with databases, software architecture, 
 <h3 align="center"> 
 ✦•┈๑⋅⋯ A ʟɪᴛᴛʟᴇ ʙɪᴛ ᴀʙᴏᴜᴛ ᴍᴇ ⋯⋅๑┈·✦
 </h3>
-Outside of code, I love drawing, reading, and I'm learning Japanese on my own. Long term, I’d love to work in the game development industry.
-
+<p>
+  Outside of code, I love drawing, reading, and I'm learning Japanese on my own. Long term, I’d love to work in the game development industry. 
+  Right now I'm learning more about cibersecurity, Unity and C++ essentials!
+</p>
 <br>
 <p align="center"> 
 I'm also part of <a href="https://github.com/detached-brains">𝔇𝔢𝔱𝔞𝔠𝔥𝔢𝔡 𝔅𝔯𝔞𝔦𝔫𝔰</a>! 🧠 Play our new game's prototype, Fortuna Favors, on Itch.io!
