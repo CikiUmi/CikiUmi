@@ -21,7 +21,7 @@ Desc
 </h3>
 <p>
   Outside of code, I love drawing, reading, and I'm learning Japanese on my own. Long term, I’d love to work in the game development industry. 
-  Right now I'm learning more about cibersecurity, Unity and C++ essentials!
+  Right now I'm learning about cibersecurity, C++ essentials and more about Unity!
 </p>
 <br>
 <p align="center"> 
